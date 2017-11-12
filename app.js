@@ -1,3 +1,4 @@
-11
-22  233
-33
+var app = function(argument) {
+	// body...
+	var a = 2;
+}
