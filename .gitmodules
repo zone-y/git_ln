@@ -1,0 +1,3 @@
+[submodule "sub_test"]
+	path = sub_test
+	url = ghub:zone-y/sub_test.git
